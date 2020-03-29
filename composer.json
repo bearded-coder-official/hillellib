@@ -2,6 +2,6 @@
   "name": "stanislas-prime/hillellib",
   "description": "Hillel Library Test",
   "autoload": {
-    "Hillel\\Library\\": "src"
+    "Hillel\\Library\\": "src/"
   }
 }
