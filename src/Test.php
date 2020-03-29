@@ -8,4 +8,9 @@ final class Test
     {
         return "Смерть короновирусу!!!!" . PHP_EOL;
     }
+
+    public function qwe()
+    {
+        return rand(1, 10);
+    }
 }
