@@ -6,6 +6,6 @@ final class Test
 {
     public function test()
     {
-        return "Смерть короновирусу!!!" . PHP_EOL;
+        return "Смерть короновирусу!!!!" . PHP_EOL;
     }
 }
