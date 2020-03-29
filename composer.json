@@ -1,0 +1,7 @@
+{
+  "name": "Hillel Library Test",
+  "description": "Hillel Library Test",
+  "autoload": {
+    "Hillel\\Library": "src"
+  }
+}
